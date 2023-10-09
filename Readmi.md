@@ -26,7 +26,7 @@ ex:
 
  pasta--street
                   |
-                   ----0_Robot.sh 
+                   ----CUSTOM.sh 
                   |
                    ----loadscreen.png 
                   |
